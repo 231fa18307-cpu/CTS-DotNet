@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\breet\\OneDrive\\Documents\\Cognizant\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj": {}
+    "C:\\Users\\breet\\OneDrive\\Documents\\DotNet\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\breet\\OneDrive\\Documents\\Cognizant\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj": {
+    "C:\\Users\\breet\\OneDrive\\Documents\\DotNet\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\breet\\OneDrive\\Documents\\Cognizant\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj",
+        "projectUniqueName": "C:\\Users\\breet\\OneDrive\\Documents\\DotNet\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj",
         "projectName": "Exercise-1-Singleton Pattern",
-        "projectPath": "C:\\Users\\breet\\OneDrive\\Documents\\Cognizant\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj",
+        "projectPath": "C:\\Users\\breet\\OneDrive\\Documents\\DotNet\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\Exercise-1-Singleton Pattern.csproj",
         "packagesPath": "C:\\Users\\breet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\breet\\OneDrive\\Documents\\Cognizant\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\obj\\",
+        "outputPath": "C:\\Users\\breet\\OneDrive\\Documents\\DotNet\\DeepSkilling\\Module-01-Design Patterns\\Exercise-1-Singleton Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\breet\\AppData\\Roaming\\NuGet\\NuGet.Config"

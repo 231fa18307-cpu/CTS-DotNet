@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercise_1_Singleton_Pattern
-build_property.ProjectDir = C:\Users\breet\OneDrive\Documents\Cognizant\DeepSkilling\Module-01-Design Patterns\Exercise-1-Singleton Pattern\
+build_property.ProjectDir = C:\Users\breet\OneDrive\Documents\DotNet\DeepSkilling\Module-01-Design Patterns\Exercise-1-Singleton Pattern\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
